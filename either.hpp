@@ -1,5 +1,3 @@
-#include <fmt/core.h>
-
 #include <type_traits>
 #include <variant>
 
